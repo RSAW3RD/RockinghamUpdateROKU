@@ -1,0 +1,33 @@
+{
+  "lastUpdated": "2020-02-12T06:40:55+00:00",
+  "providerName": "RockinghamUpdate",
+  "language": "en-US",
+  "shortFormVideos": [
+    {
+      "id": "201708127",
+      "title": "News and Municipal Meetings",
+      "content": {
+        "dateAdded": "2020-02-12T06:39:31+00:00",
+        "videos": [
+          {
+            "url": "https://app.viloud.tv/1/channel/50538c870f5eafa6c8384a1e9217763e.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 1000
+          }
+        ],
+        "duration": 86400
+      },
+      "thumbnail": "http://www.rceno.com/images/RU-Thmb-800-450.jpg",
+      "shortDescription": "News from Rockingham County, NC",
+      "releaseDate": "2020-02-11",
+      "longDescription": "News and Municipal Meetings From the Rockingham County, NC Area",
+      "tags": [
+        "news"
+      ],
+      "genres": [
+        "news"
+      ]
+    }
+  ]
+}
